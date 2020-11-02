@@ -16,6 +16,9 @@ Actors
 | Meal Relevance Mapper | Builds propencity map meal-to-health-feature   |
 | Meal Profiler |  Stores meals nutrients features  |
 | Customer Reaction Store |  Stores a list of customer reactions, e.g. ordered, cancelled, and bought adhock meals  |
-| Mobile App | mobile eComerce |
-| Web site | eCommerce site   |
+| Customer Mobile App | mobile eComerce |
+| Customer Web site | eCommerce site   |
+| Admin Web site | Site for analysts to edit info about meals   |
+| Shipper's Mobile App | mobile eComerce |
+| Cook's Monitor | Tablet App to show new meals to cook, prints barcodes to track ready meals   |
 | Order Processor | Shopping cart service |
