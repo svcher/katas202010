@@ -3,10 +3,10 @@ Actors
 
 | Actor  | Description  |
 |---|---|
-| Customer | Takes food from frige, reacts to marketing effort, pays, orders, enters health info  |
-| Cook | Takes orders from the system and makes meals  |
-| Shipper | Takes food from the kitchen and delivers to the locations   |
-| Meal Analyst | Enters meal nutrition info and cost structure   |
+| *Customer* | Takes food from frige, reacts to marketing effort, pays, orders, enters health info  |
+| *Cook* | Takes orders from the system and makes meals  |
+| *Shipper* | Takes food from the kitchen and delivers to the locations   |
+| *Meal Analyst* | Enters meal nutrition info and cost structure   |
 | Fridge | Dispenses food, authenticates customers, accepts payments   |
 | Fiscal Register | Records financial transaction for accounting purposes and audits   |
 | Fridge Adaptor | Takes stock data from Fridge for reconciliation, accepts transactions from fridge   |
